@@ -1,2 +1,2 @@
-# lasbi_resolution-oktober---desember-
+# lasbi_resolution-oktober-desember
 Repositori untuk rencana 3 bulan kedepan
