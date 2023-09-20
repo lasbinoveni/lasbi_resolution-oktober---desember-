@@ -3,5 +3,5 @@ LIST SENIN - MINGGU
 SENIN : Belajar Meta Ads, SEO, Google Ads.
 SELASA : Belajar Copy Writing.
 RABU : Belajar tentang Sales.
-KAMIS - SABTU : Belajar Github, Html5, CSS3, php. (Backend Developer Web).
+KAMIS - SABTU : Belajar Github, Html5, CSS3, php, Laravel. (Backend Developer Web).
 MINGGU : LIBUR.
